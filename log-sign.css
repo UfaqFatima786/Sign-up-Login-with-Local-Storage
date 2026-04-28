@@ -4,36 +4,25 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('images/js.jpg');
+    background-image: url('images/log sign.JPG');
     background-size: cover;
     background-position: center;
 }
 
 .container {
-    width: 600px;
+    height: 500px;
+    width: 500px;
     text-align: center;
     padding: 20px;
     background: rgba(121, 19, 1, 0.801);
     border-radius: 10px;
 }
 
-.heading4 {
-    font-size: 40px;
-    color: #fabebe;
-    margin-bottom: 20px;
-}
-
-.jsimg {
-    width: 250px;
-    height: 250px;
-    border-radius: 50%;
-}
-
 .login-btn {
     padding: 10px 20px;
     font-size: 20px;
     color: #fff;
-    background-color: #ff5733;
+    background-color: #570101;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -54,8 +43,4 @@ body {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-}
-
-.para {
-    margin: 5px 0;
 }
