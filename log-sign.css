@@ -17,15 +17,41 @@ body {
     background: rgba(121, 19, 1, 0.801);
     border-radius: 10px;
 }
+.heading4 {
+    font-size: 40px;
+    color: #580101;
+    margin-bottom: 20px;
+    background-color: #ee8b72;
+    width: 200px;
+    text-align: center;
+    border-radius: 20px;
+    border: 2px solid #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+}
+.headingcreat {
+    font-size: 40px;
+    color: #580101;
+    margin-bottom: 20px;
+    background-color: #ee8b72;
+    width: 350px;
+    text-align: center;
+    border-radius: 20px;
+    border: 2px solid #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 .login-btn {
     padding: 10px 20px;
     font-size: 20px;
     color: #fff;
-    background-color: #570101;
+    background-color: #b84f4f;
     border: none;
     border-radius: 5px;
     cursor: pointer;
+        border: 2px solid #ffffff;
+
 }
 
 .login-btn:hover,
@@ -33,7 +59,9 @@ body {
     background-color: #ee8b72;
     color: #000;
     font-size: 20px;
+    border: 2px solid #000000;
 }
+
 
 .sign-up-btn {
     padding: 10px 20px;
